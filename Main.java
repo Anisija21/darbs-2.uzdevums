@@ -7,8 +7,8 @@
 <p id="demo"></p>
 
 <script>
-var linoleja_cena x = 10;
-var telpas_izmeri y = 9;
+var linoleja_cena = 10;
+var telpas_izmeri = 9;
 document.getElementById("demo").innerHTML = z;
 </script>
 
